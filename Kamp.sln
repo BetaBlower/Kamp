@@ -3,19 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kamp", "Kamp\Kamp.csproj", "{3E4104B2-17E0-4C73-88EC-8695633EFB18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kamp", "Kamp\Kamp.csproj", "{3E4104B2-17E0-4C73-88EC-8695633EFB18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odevler", "Odevler\Odevler.csproj", "{D332C240-395B-4EE2-9950-88CB46B3D277}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odevler", "Odevler\Odevler.csproj", "{D332C240-395B-4EE2-9950-88CB46B3D277}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{91D9C4C7-E90C-4BBF-ACD6-FBE7D7B02A15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{91D9C4C7-E90C-4BBF-ACD6-FBE7D7B02A15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{46C0066A-1B9A-4964-AD2E-E5CB0686C01E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{46C0066A-1B9A-4964-AD2E-E5CB0686C01E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{FE5A33C5-01BD-41F9-98A1-937F21D00886}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{FE5A33C5-01BD-41F9-98A1-937F21D00886}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipleri", "DegerVeReferansTipleri\DegerVeReferansTipleri.csproj", "{F1CF968F-59C4-482A-A645-AFC1A685623F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipleri", "DegerVeReferansTipleri\DegerVeReferansTipleri.csproj", "{F1CF968F-59C4-482A-A645-AFC1A685623F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassGiris", "ClassGiris\ClassGiris.csproj", "{FB289434-A2EA-403D-9B2C-B7E843EFB039}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassGiris", "ClassGiris\ClassGiris.csproj", "{FB289434-A2EA-403D-9B2C-B7E843EFB039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{BC66EC1C-B62C-419C-A224-ED4149EB9159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{B6478006-557E-4A28-B5FD-5BD7E8F68767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericIntro", "GenericIntro\GenericIntro.csproj", "{4B3D697A-2B80-4602-A772-85DB6AAE0C14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{FB289434-A2EA-403D-9B2C-B7E843EFB039}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB289434-A2EA-403D-9B2C-B7E843EFB039}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB289434-A2EA-403D-9B2C-B7E843EFB039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC66EC1C-B62C-419C-A224-ED4149EB9159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC66EC1C-B62C-419C-A224-ED4149EB9159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC66EC1C-B62C-419C-A224-ED4149EB9159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC66EC1C-B62C-419C-A224-ED4149EB9159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6478006-557E-4A28-B5FD-5BD7E8F68767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6478006-557E-4A28-B5FD-5BD7E8F68767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6478006-557E-4A28-B5FD-5BD7E8F68767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6478006-557E-4A28-B5FD-5BD7E8F68767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B3D697A-2B80-4602-A772-85DB6AAE0C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3D697A-2B80-4602-A772-85DB6AAE0C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3D697A-2B80-4602-A772-85DB6AAE0C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3D697A-2B80-4602-A772-85DB6AAE0C14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
