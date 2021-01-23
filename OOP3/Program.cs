@@ -15,7 +15,7 @@ namespace OOP3
             IloggerService fileLoggerService = new FileLoggerService();
 
             BasvuruManager basvuruManager = new BasvuruManager();
-            basvuruManager.BasvuruYap(esnafKredisiManager,fileLoggerService);
+            basvuruManager.BasvuruYap(esnafKredisiManager, fileLoggerService);
 
             Console.WriteLine("");
 
