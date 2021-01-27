@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace GenericIntro
 {
@@ -7,9 +8,21 @@ namespace GenericIntro
         
         static void Main(string[] args)
         {
-            MyList<string> isimler = new MyList<string>();
-            isimler.Add("Engin");
-             
+            MyList<int> isimler = new MyList<int>();
+            isimler.Add(1);
+            isimler.Add(10);
+
+            Console.WriteLine(isimler);
+
+
+
+            List<string> meyveler = new List<string>();
+            meyveler.Add("armut");
+            foreach (var meyve in meyveler)
+            {
+                Console.WriteLine(meyve);
+            }
+            Console.WriteLine(meyveler);
         }
     }
 }
